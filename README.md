@@ -128,28 +128,5 @@ For testing purposes, the following default accounts are seeded in the `zula_db.
 
 ## Screenshots to Capture for Submission
 
-To meet the project requirements, capture screenshots of the following pages in **mobile, tablet, and desktop views**:
-
-*   **Main Website**
-    *   Homepage (logged out and logged in as buyer)
-    *   Browse Products page (with filters applied)
-    *   Product Details page
-    *   Shopping Cart page
-    *   Checkout page
-    *   My Orders page
-    *   My Profile page
-*   **Seller Website (logged in as seller)**
-    *   Seller Dashboard
-    *   Add New Product page
-    *   Manage My Products page
-    *   Shop Orders page
-*   **Admin Website (logged in as admin)**
-    *   Admin Dashboard
-    *   Manage Users page
-    *   Manage Products (Approval) page
-    *   Manage Categories page
-    *   Manage Orders page
-    *   Dispute Management page
-    *   Reports page
 
 Ensure all screenshots clearly demonstrate the responsive design and functionality of each page.
