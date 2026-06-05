@@ -1,0 +1,7 @@
+{
+  "name": "zula/marketplace",
+  "description": "South African C2C marketplace",
+  "require": {
+    "php": "^7.4"
+  }
+}

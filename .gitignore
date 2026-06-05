@@ -1,0 +1,8 @@
+# Zula Project Git Ignore
+server.log
+.DS_Store
+*.zip
+config_local.php
+vendor/
+node_modules/
+.env
