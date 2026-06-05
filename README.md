@@ -126,7 +126,3 @@ For testing purposes, the following default accounts are seeded in the `zula_db.
 5.  **Update `db.php`**: Edit the `includes/db.php` file with your hosting provider's database credentials (host, db name, user, pass).
 6.  **Access**: Your website should now be accessible via your hosting domain.
 
-## Screenshots to Capture for Submission
-
-
-Ensure all screenshots clearly demonstrate the responsive design and functionality of each page.
